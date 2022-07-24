@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(135deg, #1CCACE 0%, #1C6EA4 63%, #4C09C5 100%);
+}
+
+h1 {
+    text-align: center;
+}
+
+#container {
+    margin-top:100px;
+    background-color: #fffdfd57;
+    border-radius:15px;
+    box-shadow: 5px 5px 15px 5px #000000;
+
+
+}

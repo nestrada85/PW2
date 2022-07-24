@@ -1,0 +1,14 @@
+{
+  "name": "tarea1",
+  "version": "1.0.0",
+  "description": "Tarea Semana 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Norman Said Estrada Izaguirre",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
